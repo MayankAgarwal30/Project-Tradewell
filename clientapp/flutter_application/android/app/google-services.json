@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1053481705891",
+    "firebase_url": "https://nikis-studios-default-rtdb.firebaseio.com",
+    "project_id": "nikis-studios",
+    "storage_bucket": "nikis-studios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053481705891:android:75f1dce50b7fad6d093a16",
+        "android_client_info": {
+          "package_name": "com.nikiscodes.market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053481705891-3nt4hjs8u9uvd5tteouhdm2pijp1lna4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLEOCEuqCHIGJKH8sxUihXJ2JmxD7G-Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053481705891-3nt4hjs8u9uvd5tteouhdm2pijp1lna4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
