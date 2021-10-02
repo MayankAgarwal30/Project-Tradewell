@@ -1,0 +1,25 @@
+
+
+
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <script type="text/javascript">
+            function invokeNative(id)
+            {
+                messageHandler.postMessage(id);
+            }
+        </script>
+    </head>
+
+    <body>
+        <button id="button1" class="MetroBtn" onClick="invokeNative(this.id);">Btn1</button>
+        <button id="button2" class="MetroBtn" onClick="myFunc(this.id);">Btn2</button>
+        <button id="button3" class="MetroBtn" onClick="myFunc(this.id);">Btn3</button>
+        <button id="button4" class="MetroBtn" onClick="myFunc(this.id);">Btn4</button>
+    </body>
+</html>
+
+
+
+

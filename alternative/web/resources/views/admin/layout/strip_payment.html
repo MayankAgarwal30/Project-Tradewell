@@ -1,0 +1,15 @@
+<html>
+
+<head>
+    <script type="javascript">
+        function invokeNative() {
+            MessageInvoker.postMessage('Trigger from Javascript code');
+        }
+    </script> </head>
+
+<body>
+    <form>
+        <input type="button" value="Click me!" onclick="invokeNative()" />
+    </form> </body>
+
+</html>
